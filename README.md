@@ -111,4 +111,5 @@ If you are not using Conda, you can skip the Conda-related steps and proceed dir
 
 ## Contributors 
 - DeepSeek
+- Aurora Bertasini
 - Leonardo Ignazio Pagliochini
